@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">E Nursing</string>
+    <string name="title_activity_android_list_view">AndroidListViewActivity</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "960592758018",
+    "firebase_url": "https://e-nursing.firebaseio.com",
+    "project_id": "e-nursing",
+    "storage_bucket": "e-nursing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960592758018:android:84621aafd493f544",
+        "android_client_info": {
+          "package_name": "com.example.pras.enursing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960592758018-72i0j210hla3bpl9shd0hh4dtcllr9bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg9VhuhSH476wiuD9dohRkK3mY9pikQNk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
